@@ -45,7 +45,7 @@ Echo is designed with **scalability-first principles**:
 ## 🧠 Tech Stack
 
 ### **Frontend**
-- React / Next.js
+- Angular
 - TypeScript
 - Tailwind CSS
 - WebSockets for live updates
@@ -61,7 +61,7 @@ Echo is designed with **scalability-first principles**:
 - **WebRTC** — audio/video rooms (SFU-ready design)
 
 ### **Database & Caching**
-- PostgreSQL / MongoDB
+- PostgreSQL
 - Redis (caching, pub/sub, rate limiting)
 - Database indexing & pagination strategies
 
